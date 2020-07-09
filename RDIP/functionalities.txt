@@ -1,0 +1,26 @@
+1)check the introduction, theory, objective, procedure tabs 
+2)Open the experiments tab
+3)You get a dropdown with English, Hindi and Select Language as the options
+4)for comfort let us select English from the dropdown
+5)We are met with a sentence in English that is jumbled along with a message written “Form a sentence 
+(Declarative or Interrogative or any other type) from the given words(select the buttons in proper order) “. 
+There are clickable buttons pertaining to each word in the sentence.
+6)So we click on any of the words and that word gets removed from the jumbled sentence and another message comes i.e. 
+Formed Sentence (after selecting words): comes along with the clicked word we chose below it. Also, 
+reform the sentence button is also visible.
+7) As we keep clicking the words, the words keep getting added to the previously chosen words in the same order and
+ keep vanishing from the original jumbled sentence as you are clicking them. As soon as all words are chosen and 
+the original jumbled sentence is empty, another clickable button called “check the correctness of the sentence”  is 
+visible which when clicked tells you whether your sentence is correct. 
+8)If what you have chosen is correct and the sentence is syntactically and semantically right, it should Right answer!!! 
+otherwise Wrong answer!!!
+9) If the answer is wrong, another button is displayed that says, Get Correct Sentence which when clicked displays
+ the correct answer(s).
+10)The reform sentence button at any moment returns how many ever words you have chosen back to the jumbled sentence 
+along with hiding the message  Formed Sentence (after selecting words). If it is clicked after you have selected all 
+words, it will again return the words back to the jumbled order. This button basically acts as a reset button.
+11)The Get Correct Sentence when clicked after displaying the right sentence becomes Hide the Correct Sentence wherein 
+the correct sentence disappears. The Hide the correct sentence becomes get answers when clicked and so on.
+12)Whenever the button “check the correctness of sentence” is pressed, the Get Correct sentence button is invoked. 
+13)he English and Hindi Sentences are randomly chosen from a list of sentences. Every time English or Hindi is chosen, 
+a new random English/Hindi Sentence comes into play. 
