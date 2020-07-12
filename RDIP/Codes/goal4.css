@@ -1,0 +1,80 @@
+body {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, Arial, sans-serif;
+    ;
+}
+
+.container {
+    margin: auto;
+    padding: 0px;
+    width: 1024px;
+    text-align: center;
+}
+
+
+.dropdown {
+    text-align: center;
+    margin-right: 143px;
+    padding-top: 20px;
+    background-color: white;
+
+}
+
+h2 {
+    background-color: white;
+    margin-right: 143px;
+    font-family: arial;
+    font-size: 25px;
+    font-weight: 450;
+    padding-left: 42px;
+}
+
+
+.data {
+    font-size: 16px;
+    color: #444444;
+    padding: 10px;
+}
+
+.text {
+    text-align: center;
+}
+
+hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 1px;
+    border-width: 0;
+    color: gray;
+    background-color: gray
+}
+
+select {
+    border-width: 0.5px;
+    border-style: solid;
+    border-color: -internal-light-dark-color(rgb(118, 118, 118), rgb(195, 195, 195));
+    text-align: left;
+    zoom: 120%;
+    color: #444444;
+}
+
+#text {
+    margin-top: 100px;
+}
+
+#x {
+    color: #0000AA;
+    font-size: 16px;
+    font-weight: 800;
+}
+
+#x1 {
+    color: #0000FF;
+    font-size: 14px;
+}
+
+#x2 button {
+    padding: 5px;
+    cursor: pointer;
+    margin: 10px;
+}
+
