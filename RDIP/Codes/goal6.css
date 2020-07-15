@@ -1,0 +1,44 @@
+  
+*{
+   margin : 0;
+   padding : 0;
+}
+body {
+	text-align : center;
+}
+h2 {
+   text-align : left;
+   font-family : arial;
+   font-size : 25px;
+   font-weight : 450;
+}
+.dropdown {
+   padding-top : 20px;
+   }
+#dropdownbox {
+   height : 22px;
+   font-family : arial;
+   font-size : 17px;
+}
+.txt1 p, .txt3 p{
+    font-family : arial;
+   color : #0000AA;
+   font-weight : 700;
+   font-size : 16px;
+}
+.txt2 p, .txt3 i{
+    font-family : arial;
+   color : #0000FF;
+   font-size : 14px;
+   font-style : italic;
+    font-weight : 700;
+}
+button {
+   padding : 3px;
+   margin : 15px;
+   float : center;
+}
+.displayformedsent p {
+   font-size : 30px;
+   font-style : bold;
+}
