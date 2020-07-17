@@ -1,0 +1,12 @@
+1)Click on the experiment tab.
+2)You get a dropdown with Corpus 1, 2 and 3 as the options.
+3)select Corpus n from the dropdown.
+4)after selecting There is a message written to “Enter the number of tokens and types for the above corpus:” 
+followed by a table saying #Types and #Tokens. There is also a submit button.
+5)If we do not enter correct no of the count of the types and tokens in the table and the answer is checked the boxes 
+turn red. If the boxes turn red(even one of them), an error message is displayed saying Wrong Answer.
+6)If the answer is correct though(both have to be correct), another button is displayed along with the message Right 
+Answer that says Continue, and when that button is clicked, the right answer message and the submit button vanishes. 
+7)They are replaced by the message “Now, consider all the tokens with the same 'root' word to be of the same type. 
+Recalculate the number of types.” There is also a box that says, #NewTypes, and a new submit button below this.
+
