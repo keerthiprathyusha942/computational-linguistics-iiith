@@ -1,0 +1,52 @@
+body {
+    margin: 0px;
+    text-align: center;
+    background-color: #01284d;
+}
+
+#pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+#white {
+    margin: auto;
+    color: white;
+    text-align: left;
+    font-size: 28px;
+    font-weight: bold;
+    width: 80%;
+    background-color: #1E90FF;
+}
+
+#drop,
+#droptwo {
+    height: 22px;
+    font-family: arial;
+    font-size: 17px;
+}
+
+.main {
+    text-align: center;
+    width: 80%;
+    height: auto;
+    background-color: rgb(204, 238, 238);
+    margin: 0 auto;
+}
+
+#head {
+    padding: 10px;
+    text-align: left;
+    font-size: 50px;
+    font-family: serif;
+}
+
+.sub {
+    padding-top: 20px;
+    width: 90%;
+    height: 900px;
+    background-color: white;
+    align-content: center;
+}
