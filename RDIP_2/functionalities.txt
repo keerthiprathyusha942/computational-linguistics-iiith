@@ -1,0 +1,16 @@
+1)Click on the experiment tab.
+2)You get a dropdown with English, Hindi and Select Language as the options.
+3)So lets understand how English sentences work. We select English from the dropdown.
+4)You get a dropdown saying “Select a sentence” that has multiple English Sentences. The same dropdown is populated
+ with Hindi Sentences if Hindi had been chosen from the first dropdown.
+5)Let us take the sentence, “She was stopped by the bravest knight.” As soon as we select this sentence, a message is 
+displayed “Select the POS tag for corresponding words” along with a table being created having four columns.
+6)The first column(heading as Lexicon) is populated with the selected sentence, the second column(heading POS) contains a 
+dropdown that is populated with multiple POS tags and this dropdown can be seen for as many rows as there in the first 
+column. The default dropdown value for all dropdowns should be Noun. The third and fourth columns are for now empty.
+7)You can choose from the dropdowns and whenever you think you have made the choice of the correct POS tags, you can 
+click Submit and the third column now becomes populated with a tick or a cross pertaining to whether the choice you made 
+in the dropdown and the actual correct POS tag match or not.
+8)If all your POS tags are correct, and the third column is filled with all green ticks, the experiment is over. But if, 
+any of the rows of the third column are filled with a red cross, a button is displayed saying “Get Answer” wherein if 
+clicked, the fourth and final column is populated with the actual correct POS Tags.
